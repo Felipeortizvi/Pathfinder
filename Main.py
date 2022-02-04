@@ -1,3 +1,5 @@
+#Collaborative Python Pathfinder Project between Zachary Defrancesco and Felipe Ortiz Villegas. 
+
 import pygame
 import math
 from queue import PriorityQueue
