@@ -13,7 +13,10 @@ Left click 3, 4, 5....: Places barriers
 Hovering over node and pressing "w" allows tou to place water node. This is a weighted node of 2, which allows 
 you to go through walls at a cost of 2 nodes. 
 
+To play: Press space bar.
+
 Reset: is "r" but it does not fully reset (game bug). Full reset is exiting the application
+
 
 
 
