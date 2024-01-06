@@ -1,4 +1,8 @@
-#Python Pathfinder implementing A-Star algorithm
+#Python Pathfinder implementing A-Star algorithm. 
+# To start left click over a node and place the start node. 
+# The second left click will place the end node.
+# The following left clicks will place barriers.
+# Pressing "w" over barriers or empty nodes will place water tiles worth 2x the cost
 
 import pygame
 import math

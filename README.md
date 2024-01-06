@@ -4,11 +4,11 @@ Requirements to play:
 Have pygame installed 
 
 Game controls:
-Right click 1: Places start node
+Left click 1: Places start node
 
-Right click 2: Places end node
+Left click 2: Places end node
 
-Right click 3, 4, 5....: Places barriers
+Left click 3, 4, 5....: Places barriers
 
 Hovering over node and pressing "w" allows tou to place water node. This is a weighted node of 2, which allows 
 you to go through walls at a cost of 2 nodes. 
