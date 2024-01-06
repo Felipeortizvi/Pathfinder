@@ -1,10 +1,9 @@
-#Collaborative Python Pathfinder Project between Zachary Defrancesco and Felipe Ortiz Villegas. 
+#Python Pathfinder implementing A-Star algorithm
 
 import pygame
 import math
 from queue import PriorityQueue
 import time
-import random
 
 WIDTH = 600
 
