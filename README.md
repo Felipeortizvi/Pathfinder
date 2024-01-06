@@ -1,7 +1,7 @@
 Python Pathfinder game allows you to place two nodes over the set graph and then add walls and water pathways to slow the pathfinder from finding nodes.
 
 Requirements to play:
-Have pygame installed 
+Have pygame installed which can be bought from visualstudios extention library
 
 Game controls:
 Left click 1: Places start node
