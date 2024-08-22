@@ -20,6 +20,8 @@ To play: Press space bar.
 
 Reset: is "r" but it does not fully reset (game bug). Full reset is exiting the application
 
+## How to install
 
+Create a virtual environment and install the requirement file.
 
-
+`pip install -r requirements-develop.txt`
