@@ -1,3 +1,6 @@
+
+# How To Play
+
 Python Pathfinder game allows you to place two nodes over the set graph and then add walls and water pathways to slow the pathfinder from finding nodes.
 
 Requirements to play:
@@ -10,7 +13,7 @@ Left click 2: Places end node
 
 Left click 3, 4, 5....: Places barriers
 
-Hovering over node and pressing "w" allows tou to place water node. This is a weighted node of 2, which allows 
+Hovering over node and pressing "w" allows you to place water node. This is a weighted node of 2, which allows 
 you to go through walls at a cost of 2 nodes. 
 
 To play: Press space bar.
